@@ -2,6 +2,8 @@
 ### **Live demo: [http://adeel.io/sncgan/](http://adeel.io/sncgan/)**
 #### Spectral Norm + Conditional GAN
 
+This repo contains code for the MLP18' class project at the University of Edinburgh.
+
 This is a hard fork of [@minhnhat93's](https://github.com/minhnhat93) TensorFlow Spectral Normalization GAN implementation available at: https://github.com/minhnhat93/tf-SNDCGAN. A number of improvements have been made, including the addition of conditioning.
 
 The GAN architecture is depicted here:
